@@ -6,7 +6,7 @@
 </p>
 
 
-- 🌐 All of my projects are available at [github.com/mohamadlounnas](https://github.com/bahidja) 
+- 🌐 All of my projects are available at [github.com/bahidja](https://github.com/bahidja) 
 - 💬 Ask me about flutter? python? laravel? 
 - 📫 How to reach me [bahidjaizem@gmail.com](mailto:bahidjaizem@gmail.com)
 - 🌱 I’m currently learning **AI / ML**
