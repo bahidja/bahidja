@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Izem Bahidja</h1>
 
 
+<p align="center" style="margin: 60px;">
+    <strong>  **Computer science student and full-Stack web Developer **</strong>
+</p>
 
 
-                                       **Computer science student and full-Stack web Developer **
-
-- 🧑‍💻 I’m currently working as a freelancer
 - 🌐 All of my projects are available at [github.com/mohamadlounnas](https://github.com/bahidja) 
 - 💬 Ask me about flutter? python? laravel? 
 - 📫 How to reach me [bahidjaizem@gmail.com](mailto:bahidjaizem@gmail.com)
